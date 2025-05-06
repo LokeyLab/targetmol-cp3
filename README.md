@@ -1,2 +1,3 @@
 # targetmol-cp3
-Repository for allTargetMol-CP3 data
+
+Repository for all TargetMol-CP3 data
